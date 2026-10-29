@@ -177,3 +177,4 @@ Rencana peningkatan kualitas dan modernisasi sistem tercatat secara berkala pada
 
 ---
 *Dibuat untuk mempermudah tata kelola kepegawaian Dinas Pendidikan Kabupaten Hulu Sungai Selatan.*
+
